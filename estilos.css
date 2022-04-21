@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-image: url(./img/img/castelo.jpg);
+    background-image: url(/img/img/castelo.jpg);
     background-size: cover;
     background-position: top center;
     height: 100%;
@@ -81,3 +81,5 @@ footer address:last-child {
         height: 100%;
     }
 }
+
+
